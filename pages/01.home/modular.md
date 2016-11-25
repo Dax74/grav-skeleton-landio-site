@@ -9,7 +9,7 @@ form:
           id: name
           label: Name
           classes: form-control form-control-lg
-          placeholder: Enter your name
+          placeholder: Digita il tuo username
           autocomplete: on
           type: text
           validate:
@@ -19,7 +19,7 @@ form:
           id: email
           classes: form-control form-control-lg
           label: Email
-          placeholder: Enter your email address
+          placeholder: Digita il tuo indirizzo email
           type: text
           validate:
             rule: email
@@ -29,7 +29,7 @@ form:
           label: Message
           classes: form-control form-control-lg
           size: long
-          placeholder: Enter your message
+          placeholder: Digita il tuo messaggio
           type: textarea
           validate:
             required: true
@@ -52,7 +52,7 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for your feedback!
+        - message: Grazie del tuo feedback!
         - display: thankyou
 
 
