@@ -42,4 +42,4 @@ pricing:
     additional_css: wp-6
 
 ---
-### Manage your subscriptions
+### Sostienici
