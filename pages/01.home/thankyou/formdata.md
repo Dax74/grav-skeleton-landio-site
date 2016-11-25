@@ -1,7 +1,7 @@
 ---
-title: Thank you !
+title: Grazie!
 navbar_class: navbar-dark bg-inverse
 
 ---
 
-Your email was sent. Thank you !
+La tua email è stata inviata. Grazie!
