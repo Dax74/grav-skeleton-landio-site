@@ -1,5 +1,5 @@
 ---
-title: News
+title: Forum & Chat
 news:
   - label: Forum
     image: photo1.jpeg
