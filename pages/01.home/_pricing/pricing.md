@@ -1,43 +1,43 @@
 ---
-title: Subscriptions
+title: Sostienici
 pricing:
-  - title: Personal
+  - title: Simpatizzanti
     description: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.
     currency: $
-    price: 19
-    period: /month
+    price: 1
+    period: /mese
     features:
       - item: Sed risus feugiat
       - item: Sed risus feugiat fusce eu sit
       - item: Sed risus feugiat fusce
     button_url: "#"
-    button_text: Get Started
+    button_text: Sostienici
     highlighted: false
     additional_css: wp-5
-  - title: Professional
+  - title: Sostenitori
     description: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.
     currency: $
-    price: 49
-    period: /month
+    price: 5
+    period: /mese
     features:
       - item: Sed risus feugiat
       - item: Sed risus feugiat fusce eu sit
       - item: Sed risus feugiat fusce
       - item: Sed risus feugiat
     button_url: "#"
-    button_text: Get Started
+    button_text: Sostienici
     highlighted: true  
-  - title: Enterprise
+  - title: Mecenati
     description: Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras.
     currency: $
-    price: 99
-    period: /month
+    price: 30
+    period: /mese
     features:
       - item: Sed risus feugiat
       - item: Sed risus feugiat fusce eu sit
       - item: Sed risus feugiat fusce
     button_url: "#"
-    button_text: Get Started
+    button_text: Sostienici
     highlighted: false
     additional_css: wp-6
 
