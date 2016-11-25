@@ -1,17 +1,17 @@
 ---
 title: News
 news:
-  - label: Featured
+  - label: Forum
     image: photo1.jpeg
-    title: Design studio with product designer Peter Finlan
+    title: Curabitur id enim tellus. Donec imperdiet sapien eu fermentum posuere.
     url: "#"
     tags:
       - Design
       - Studio
     time: 1 Hour Ago
-  - label: Featured
+  - label: Chat
     image: photo2.jpeg
-    title: How bold, emotive imagery can connect with your audience
+    title: Curabitur id enim tellus. Donec imperdiet sapien eu fermentum posuere.
     url: "#"
     tags:
       - Design
